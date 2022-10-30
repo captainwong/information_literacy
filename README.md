@@ -54,7 +54,7 @@
 ### 1.2 Big6
 
 #### Big6
-[What is the BIG6](https://thebig6.org/thebig6andsuper3-2)
+[THE BIG6 AND SUPER3](https://thebig6.org/thebig6andsuper3-2)
 
 1. Task Difinition
    1. Define the information problem
