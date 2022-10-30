@@ -8,7 +8,9 @@
       - [information literacy 信息素养](#information-literacy-信息素养)
       - [文献类型](#文献类型)
       - [文献特征](#文献特征)
-    - [1.2 Big6 问题解决方案](#12-big6-问题解决方案)
+    - [1.2 Big6](#12-big6)
+      - [Big6](#big6)
+      - [Super3](#super3)
 
 
 ## 一、绪论
@@ -49,29 +51,43 @@
 
 显性特征，附加特征
 
-### 1.2 Big6 问题解决方案
+### 1.2 Big6
 
+#### Big6
 [What is the BIG6](https://thebig6.org/thebig6andsuper3-2)
 
-1. Task Difinition 确定信息搜索内容和搜索策略
+1. Task Difinition
    1. Define the information problem
    2. Identify information needed
-2. Information Seeking Stategies 确定可能的资源范围及定位搜索的优先顺序
+2. Information Seeking Stategies
    1. Determine all possible sources
    2. Select the best sources
-3. Location and Access 获取信息
+3. Location and Access
    1. Locate sources(intellectually and physically)
    2. Find information within sources
-4. Use of Information 阅读、摘录信息
+4. Use of Information
    1. Engage(e.g., read, write, hear, view, touch)
    2. Extract relevant information
-5. Synthesis 综合表达信息
+5. Synthesis
    1. Organize from multiple sources
    2. Present the information
-6. Evaluation 评价
+6. Evaluation
    1. Judge the product (effectiveness)
    2. Judge the process (efficiency)
 
+#### Super3
 
+1. Plan (Beginning)
+   
+   - Task Definition
+   - Information Seeking Strategies
 
+2. Do (Middle)
 
+   - Location and Access
+   - Use of Information
+   - Synthesis
+
+3. Review (End)
+
+   - Evaluation
